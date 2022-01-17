@@ -9606,7 +9606,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5659047d4fd9454408fe49c9e655d226, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mouseSensitivity: 250
+  mouseSensitivity: 150
   playerBody: {fileID: 1963812311}
 --- !u!114 &963194230
 MonoBehaviour:
